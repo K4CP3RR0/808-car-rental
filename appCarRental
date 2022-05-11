@@ -1,0 +1,37 @@
+808 Car Rental
+
+1.Make database
+
+2.Main Page - one site with sections
+
+Header - logo
+Menu - 
+Home  - Home page
+Cars - Cars table 3 columns - make, model, year
+About Us - About us page
+Contact Us - Contact us page - phone number, email, address(map)
+Account - Account page - login, register, logout, change password, delete account
+
+3.Account Page
+
+    *Login - login page
+    *Register - register page
+    Logout - logout page - button on rental panel
+    
+    
+    .Change Password - change password page
+    .Delete Account - delete account page
+
+* the same style, but with different content
+. optional - change password, delete account
+
+4.Rental Panel
+
+    select car - select car section
+    select date & time - select date & time section
+
+    PHP script to check if the car is available
+
+    *confirm - confirm reservation
+    *cancel - cancel reservation
+
